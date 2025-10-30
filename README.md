@@ -1,29 +1,44 @@
-## Hi there 👋
+# Hey, I'm Vince
 
-I'm Vince — a backend engineer obsessed with clean APIs and developer experience. I build fast, scalable systems in TypeScript and love crafting tiny tools that solve big problems.
+I’m learning to build software that works well — reliable, clean, and understandable.  
+Right now, my focus is on backend development: how data moves, how APIs are structured, and how to keep things simple without losing quality.
 
-### 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, Python
-- **Frameworks:** Node.js, Express, NestJS
-- **Tools:** Git, Docker, Postman, MongoDB, Redis
-- **Cloud & DevOps:** AWS, Vercel, GitHub Actions
-
-### 🚀 Projects
-Here are a few things I've built or contributed to:
-- **[Lighty-Auth](https://github.com/vinceikem/lighty-auth):** Lightweight authentication middleware for Node.js
-- **[E-commerce API](https://github.com/vinceikem/ecommerce-api):** Scalable backend for online stores
-- **[Tiny Tools Collection](https://github.com/vinceikem?tab=repositories):** A growing set of utilities for developers
-
-### Currently Learning
-- Advanced system design
-- Rust for backend performance
-- Building better DX with custom CLIs
-
-### Let's Connect
-- [Twitter](https://x.com/VinceIkem)
-- Email: vince.ikem@gmail.com
+I’m not an expert yet. I’m building, breaking, fixing, and learning as I go — one project at a time.
 
 ---
 
-> ⚡ Fun fact: I love turning boring workflows into slick automations.
+## What I’m Exploring
+- Backend development with Node.js and Express  
+- Database design and API structure  
+- Automation with Python  
+- Flutter, occasionally, to bring ideas to life visually  
 
+---
+
+## Projects
+Most of my repositories are learning projects or experiments that teach me something new.  
+Each one reflects progress — not perfection — and that’s exactly what I’m aiming for.
+
+---
+
+## Tools I Use
+JavaScript • Python • Dart  
+Node.js • Express.js  
+MongoDB • Firebase • Hive • PostgreSQL
+Git • Postman • Cloudinary  
+
+---
+
+## Where I’m Headed
+I want to understand backend systems deeply — how they scale, stay secure, and stay readable.  
+The goal is simple: write code that makes sense, works well, and quietly gets the job done.
+
+---
+
+## Contact
+Email: vince.ikem@gmail.com  
+Twitter/X: [Click Me](https://x.com/VinceIkem)
+
+---
+
+Still learning. Always building.
