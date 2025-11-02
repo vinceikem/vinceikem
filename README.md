@@ -1,43 +1,44 @@
-# Hey, I'm Vince
+# Vince Ikem
 
-I’m learning to build software that works well — reliable, clean, and understandable.  
-Right now, my focus is on backend development: how data moves, how APIs are structured, and how to keep things simple without losing quality.
+I'm an open developer building cool and useful software. My work spans backend systems, mobile applications, and AI-powered tools. I care about clarity, reliability, and solving real problems with thoughtful code.
 
-I’m not an expert yet. I’m building, breaking, fixing, and learning as I go — one project at a time.
+## Areas of Focus
 
----
+- Backend development with Node.js and Express
+- Mobile development using Flutter
+- AI experimentation and integration
 
-## What I’m Exploring
-- Backend development with Node.js and Express  
-- Database design and API structure  
-- Automation with Python  
-- Flutter, occasionally, to bring ideas to life visually  
+## Tools & Technologies
 
----
+- Languages: JavaScript, Dart
+- Frameworks: Node.js, Express, Flutter
+- Databases: MongoDB, PostgreSQL
+- Utilities: Git, Postman, Cloudinary
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 
 ## Projects
-Most of my repositories are learning projects or experiments that teach me something new.  
-Each one reflects progress — not perfection — and that’s exactly what I’m aiming for.
 
----
+Most of my repositories are learning experiments, prototypes, or utilities that solve specific problems. I build to learn, and I share what I learn.
 
-## Tools I Use
-JavaScript • Python • Dart  
-Node.js • Express.js  
-MongoDB • Firebase • Hive • PostgreSQL
-Git • Postman • Cloudinary  
+## GitHub Stats
 
----
+![Vince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinceikem&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
-## Where I’m Headed
-I want to understand backend systems deeply — how they scale, stay secure, and stay readable.  
-The goal is simple: write code that makes sense, works well, and quietly gets the job done.
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinceikem&layout=compact&hide_border=true&theme=tokyonight)
 
 ## Contact
-Email: vince.ikem@gmail.com  
-Twitter/X: [Click Me](https://x.com/VinceIkem)
+
+- Email: vince.ikem@gmail.com  
+- Twitter/X: [@VinceIkem](https://x.com/VinceIkem)
 
 ---
 
